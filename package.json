@@ -1,0 +1,23 @@
+{
+  "name": "wk_good_readme_generator",
+  "version": "1.0.0",
+  "description": "App that uses a Node CLI to generate README files.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkcodes/WK_Good_README_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkcodes/WK_Good_README_Generator/issues"
+  },
+  "homepage": "https://github.com/wkcodes/WK_Good_README_Generator#readme"
+}
