@@ -1,13 +1,25 @@
 
-# Title: good readme generator
 
-Description: makes a good readme 
+# Title: adsadsd
 
-Installation: npm install good readme
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Usage: dont use too much
+* Description: asd
 
-Contributing: message me 
+* Installation: d
 
-Tests: try it
+* Usage: sa
+
+* Contributing: d
+
+* Tests: a
+
+## Contact for questions regarding the project:
+
+ github: asd
+
+ email: 
+
+~ README created with Good_README_Generator ~
+
 
