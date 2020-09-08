@@ -4,7 +4,9 @@
   "description": "App that uses a Node CLI to generate README files.",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
   },
   "devDependencies": {},
   "scripts": {
